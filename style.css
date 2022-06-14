@@ -80,7 +80,7 @@ background〜プロパティでメインヴィジュアルの表示方法を設�
 #header {
   width: 100%;
   min-height: 100vh;
-  background-image: url(../img/mainvisual2.jpg);
+  background-image: url(https://github.com/mocemocele/samplecafe/blob/main/mainvisual2.jpg?raw=true);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -115,7 +115,7 @@ nav li a:hover {
 }
 
 #menu .menu-img {
-  background-image: url(../img/menu2.jpg);
+  background-image: url(https://github.com/mocemocele/samplecafe/blob/main/menu2.jpg?raw=true);
   position: relative;
 }
 
@@ -161,7 +161,7 @@ nav li a:hover {
 }
 
 #about .about-img {
-  background-image: url(../img/about2.jpg);
+  background-image: url(https://github.com/mocemocele/samplecafe/blob/main/about2.jpg?raw=true);
   position: relative;
 }
 
@@ -256,7 +256,7 @@ nav li a:hover {
   margin-top: 20px;
 }
 #location .location-img {
-  background-image: url(../img/location2.jpg);
+  background-image: url(https://github.com/mocemocele/samplecafe/blob/main/location2.jpg?raw=true);
   position: relative;
 }
 #location .item-map {
